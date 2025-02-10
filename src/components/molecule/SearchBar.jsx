@@ -1,6 +1,6 @@
 const SearchBar = () => {
   return (
-    <div className="w-full max-w-sm min-w-[200px] m-5">
+    <div className="w-full max-w-sm min-w-[200px] m-2 py-8">
       <div className="flex items-center border border-slate-500 rounded-lg shadow-sm focus-within:border-slate-500 bg-white">
         {/*search icon*/}
         <div className="pl-3">
